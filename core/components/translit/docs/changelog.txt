@@ -1,0 +1,5 @@
+Changelog for translit.
+
+translit 1.0.0-beta (October 20, 2010)
+====================================
+- Initial beta release.
