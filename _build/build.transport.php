@@ -12,7 +12,7 @@ set_time_limit(0);
 /* define package */
 define('PKG_NAME','translit');
 define('PKG_NAME_LOWER',strtolower(PKG_NAME));
-define('PKG_VERSION','1.1.0');
+define('PKG_VERSION','1.1.1');
 define('PKG_RELEASE','beta');
 
 /* define sources */
@@ -58,6 +58,7 @@ unset ($c, $vehicle, $attributes);
 
 /* now pack in the license file, readme and setup options */
 $builder->setPackageAttributes(array(
+    'changelog' => file_get_contents($sources['docs'] . 'changelog.txt'),
     'license' => file_get_contents($sources['docs'] . 'license.txt'),
     'readme' => file_get_contents($sources['docs'] . 'readme.txt'),
 ));
