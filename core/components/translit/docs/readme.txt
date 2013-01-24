@@ -1,8 +1,8 @@
 --------------------
 Extension: translit
 --------------------
-Version: 1.0.0-beta
-Released: October 20, 2010
+Version: 1.1.1-beta
+Released: January 24, 2013
 Since: October 20, 2010
 Author: Jason Coward <jason@modx.com>
 

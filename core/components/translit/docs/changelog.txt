@@ -1,5 +1,13 @@
 Changelog for translit.
 
+translit 1.1.1-beta (January 24, 2013)
+====================================
+- Tweaked the French table
+
+translit 1.1.0-beta (January 24, 2013)
+====================================
+- Add table for French.
+
 translit 1.0.0-beta (October 20, 2010)
 ====================================
 - Initial beta release.
